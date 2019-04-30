@@ -1,4 +1,3 @@
 # pjcompro
-use pythone gui and ctypes lib
-##It show time app\
-#
+## header library
+## windows.h stdio.h string.h
